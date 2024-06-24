@@ -1,4 +1,4 @@
-Hi, I’m Sai P. I’m interested in AI, Robotics and Software development. I'm looking to collaborate on Machine Learning projects.
+Hi, I’m Sai P. I’m curious about Artificial Intelligence and looking to colloborate on projects related to that. 
 You can reach out to me on [Twitter](https://mobile.twitter.com/saiprakash_c) or [LinkedIn](https://www.linkedin.com/in/saiprakashreddyc/). 
 
 <!---
